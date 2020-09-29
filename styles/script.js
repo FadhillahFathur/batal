@@ -1,0 +1,1 @@
+alert("Hello, Selamat Datang di JKT48 Official Website!");
